@@ -1,0 +1,129 @@
+# Translation of Plugins - Page Builder: Pagelayer &#8211; Drag and Drop website builder - Stable (latest release) in English (UK)
+# This file is distributed under the same license as the Plugins - Page Builder: Pagelayer &#8211; Drag and Drop website builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-22 16:03:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - Page Builder: Pagelayer &#8211; Drag and Drop website builder - Stable (latest release)\n"
+
+#: main/import.php:49
+msgid "You have already imported the content of this theme. You can re-import the same by either choosing to over-write existing pages / pagelayer templates OR creating duplicate content !"
+msgstr "You have already imported the content of this theme. You can re-import the same by either choosing to overwrite existing pages/page layer templates OR creating duplicate content!"
+
+#: main/website.php:277
+msgid "Set the custom width of the content area. The default width set is 1170px."
+msgstr "Set the custom width of the content area. The default width set is 1170px."
+
+#: main/website.php:304
+msgid "Set the Space Between Widgets. The default Space set is 15px."
+msgstr "Set the space between widgets. The default space set is 15px."
+
+#: main/website.php:362
+msgid "You can add custom code like HTML, JavaScript, CSS etc. which will be inserted throughout your site."
+msgstr "You can add custom code like HTML, JavaScript, CSS etc. which will be inserted throughout your site."
+
+#: main/website.php:272
+msgid "Content Width"
+msgstr "Content width"
+
+#: main/website.php:299
+msgid "Space Between Widgets"
+msgstr "Space between widgets"
+
+#: main/website.php:281
+msgid "Tablet Breakpoint"
+msgstr "Tablet Breakpoint"
+
+#: main/website.php:290
+msgid "Mobile Breakpoint"
+msgstr "Mobile Breakpoint"
+
+#: main/website.php:295
+msgid "Set the breakpoint for mobile devices. The default breakpoint for mobile layout is 360px."
+msgstr "Set the breakpoint for mobile devices. The default breakpoint for mobile layout is 360px."
+
+#: main/website.php:286
+msgid "Set the breakpoint for tablet devices. The default breakpoint for tablet layout is 768px."
+msgstr "Set the breakpoint for tablet devices. The default breakpoint for tablet layout is 768px."
+
+#: main/import.php:70
+msgid "The theme content was successfully imported"
+msgstr "The theme content was successfully imported"
+
+#: init.php:282
+msgid "Import Theme"
+msgstr "Import Theme"
+
+#: init.php:1406
+msgctxt "Upgrade to Pagelayer Pro for many more features"
+msgid "Go Pro"
+msgstr "Go Pro"
+
+#: init.php:298
+msgid "Pagelayer License"
+msgstr "Pagelayer Licence"
+
+#: main/settings.php:516 main/website.php:188
+msgid "The settings were saved successfully"
+msgstr "The settings were saved successfully"
+
+#: init.php:298
+msgid "License"
+msgstr "Licence"
+
+#: init.php:264
+msgid "Theme Templates"
+msgstr "Theme Templates"
+
+#: init.php:270
+msgid "Add New Template"
+msgstr "Add New Template"
+
+#. Plugin Name of the plugin
+#: pagelayer.php init.php:252
+msgid "Pagelayer"
+msgstr "Pagelayer"
+
+#: init.php:1396
+msgid "Edit using Pagelayer"
+msgstr "Edit using Pagelayer"
+
+#: init.php:1253 init.php:1273
+msgid "Edit with Pagelayer"
+msgstr "Edit with Pagelayer"
+
+#: init.php:293
+msgid "Go Pro"
+msgstr "Go Pro"
+
+#: init.php:293
+msgid "Pagelayer Go Pro"
+msgstr "Pagelayer Go Pro"
+
+#: init.php:255
+msgid "Settings"
+msgstr "Settings"
+
+#: init.php:252 init.php:255
+msgid "Pagelayer Editor"
+msgstr "Pagelayer Editor"
+
+#. Author URI of the plugin
+#: pagelayer.php
+msgid "https://pagelayer.com/"
+msgstr "https://pagelayer.com/"
+
+#. Author of the plugin
+#: pagelayer.php
+msgid "Pagelayer Team"
+msgstr "Pagelayer Team"
+
+#. Plugin URI of the plugin
+#: pagelayer.php
+msgid "http://wordpress.org/plugins/pagelayer/"
+msgstr "http://en-gb.wordpress.org/plugins/pagelayer/"
