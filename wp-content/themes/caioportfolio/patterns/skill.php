@@ -1,7 +1,7 @@
 <?php
  /**
   * Title: Skill
-  * Slug: portfoliogrove/skill
+  * Slug: caioportfolio/skill
   */
 ?>
 <!-- wp:group {"metadata":{"name":"My Skill"},"style":{"spacing":{"padding":{"right":"var:preset|spacing|20","left":"var:preset|spacing|20","top":"var:preset|spacing|40","bottom":"var:preset|spacing|20"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
@@ -11,7 +11,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"letterSpacing":"4px","lineHeight":"1.3"},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"x-large","fontFamily":"header-font"} -->
-<h2 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-header-font-font-family has-x-large-font-size" style="letter-spacing:4px;line-height:1.3"><?php echo esc_html__( 'MY SKILL', 'portfoliogrove' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-header-font-font-family has-x-large-font-size" style="letter-spacing:4px;line-height:1.3"><?php echo esc_html__( 'MY SKILL', 'caioportfolio' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:separator {"style":{"layout":{"selfStretch":"fill","flexSize":null},"color":{"background":"#cccccc"}}} -->
@@ -29,12 +29,12 @@
 <!-- /wp:cover -->
 
 <!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"large"} -->
-<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-large-font-size"><?php echo esc_html__( 'Re-Design For The App Made Easy', 'portfoliogrove' ); ?></h2>
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-large-font-size"><?php echo esc_html__( 'Re-Design For The App Made Easy', 'caioportfolio' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"accent-2","textColor":"base-2","style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-base-2-color has-accent-2-background-color has-text-color has-background has-link-color wp-element-button"><?php echo esc_html__( 'Read Case Study', 'portfoliogrove' ); ?></a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-base-2-color has-accent-2-background-color has-text-color has-background has-link-color wp-element-button"><?php echo esc_html__( 'Read Case Study', 'caioportfolio' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>
@@ -49,12 +49,12 @@
 <!-- /wp:cover -->
 
 <!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"large"} -->
-<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-large-font-size"><?php echo esc_html__( 'Saas website for unique start-up brands', 'portfoliogrove' ); ?></h2>
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-large-font-size"><?php echo esc_html__( 'Saas website for unique start-up brands', 'caioportfolio' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"className":"is-style-fill"} -->
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link wp-element-button"><?php echo esc_html__( 'Read Case Study', 'portfoliogrove' ); ?></a></div>
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link wp-element-button"><?php echo esc_html__( 'Read Case Study', 'caioportfolio' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>
@@ -71,12 +71,12 @@
 <!-- /wp:cover -->
 
 <!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"large"} -->
-<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-large-font-size"><?php echo esc_html__( 'AI vision technology', 'portfoliogrove' ); ?></h2>
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-large-font-size"><?php echo esc_html__( 'AI vision technology', 'caioportfolio' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"contrast","textColor":"base-2","style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-base-2-color has-contrast-background-color has-text-color has-background has-link-color wp-element-button"><?php echo esc_html__( 'Read Case Study', 'portfoliogrove' ); ?></a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-base-2-color has-contrast-background-color has-text-color has-background has-link-color wp-element-button"><?php echo esc_html__( 'Read Case Study', 'caioportfolio' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>
@@ -91,12 +91,12 @@
 <!-- /wp:cover -->
 
 <!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"large"} -->
-<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-large-font-size"><?php echo esc_html__( 'Prototyping a plugin to help designers', 'portfoliogrove' ); ?></h2>
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-large-font-size"><?php echo esc_html__( 'Prototyping a plugin to help designers', 'caioportfolio' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"contrast-2","textColor":"base-2","style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}},"className":"is-style-fill"} -->
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-base-2-color has-contrast-2-background-color has-text-color has-background has-link-color wp-element-button"><?php echo esc_html__( 'Read Case Study', 'portfoliogrove' ); ?></a></div>
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-base-2-color has-contrast-2-background-color has-text-color has-background has-link-color wp-element-button"><?php echo esc_html__( 'Read Case Study', 'caioportfolio' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>

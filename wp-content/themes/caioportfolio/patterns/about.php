@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: About
- * Slug: portfoliogrove/about
- * Categories: portfoliogrove
+ * Slug: caioportfolio/about
+ * Categories: caioportfolio
  * Keywords: about
  */
 ?>
@@ -13,7 +13,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"letterSpacing":"4px","lineHeight":"1.3"},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"x-large","fontFamily":"header-font"} -->
-<h2 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-header-font-font-family has-x-large-font-size" style="letter-spacing:4px;line-height:1.3"><?php echo esc_html__( 'ABOUT ME', 'portfoliogrove' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-header-font-font-family has-x-large-font-size" style="letter-spacing:4px;line-height:1.3"><?php echo esc_html__( 'ABOUT ME', 'caioportfolio' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:separator {"style":{"layout":{"selfStretch":"fill","flexSize":null},"color":{"background":"#cccccc"}}} -->
@@ -25,24 +25,24 @@
 <div class="wp-block-group" style="margin-top:0;margin-bottom:0"><!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|30"}}}} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"x-large"} -->
-<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-x-large-font-size"><?php echo esc_html__( 'UI/UX Designer', 'portfoliogrove' ); ?></h2>
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-x-large-font-size"><?php echo esc_html__( 'UI/UX Designer', 'caioportfolio' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Dictum sed potenti rutrum ac mus fringilla lacus risus. Cubilia fames aenean torquent nam cras praesent consectetur. Interdum id', 'portfoliogrove' ); ?> </p>
+<p><?php echo esc_html__( 'Dictum sed potenti rutrum ac mus fringilla lacus risus. Cubilia fames aenean torquent nam cras praesent consectetur. Interdum id', 'caioportfolio' ); ?> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Lectus condimentum vivamus turpis ad maximus cursus commodo. Fames aliquet nibh sollicitudin sagittis turpis consectetur. Letius maecenas etiam nostra eu commodo condimentum ridiculus mattis nisi sagittis.', 'portfoliogrove' ); ?></p>
+<p><?php echo esc_html__( 'Lectus condimentum vivamus turpis ad maximus cursus commodo. Fames aliquet nibh sollicitudin sagittis turpis consectetur. Letius maecenas etiam nostra eu commodo condimentum ridiculus mattis nisi sagittis.', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Sodales orci fermentum mus finibus dui vitae et senectus convallis. Per habitant in ultrices accumsan consectetur condimentum nunc. Enim ullamcorper eget nostra eros duis himenaeos gravida.', 'portfoliogrove' ); ?></p>
+<p><?php echo esc_html__( 'Sodales orci fermentum mus finibus dui vitae et senectus convallis. Per habitant in ultrices accumsan consectetur condimentum nunc. Enim ullamcorper eget nostra eros duis himenaeos gravida.', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button"><?php echo esc_html__( 'Hire Me', 'portfoliogrove' ); ?></a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button"><?php echo esc_html__( 'Hire Me', 'caioportfolio' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->

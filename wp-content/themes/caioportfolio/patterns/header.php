@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Header
- * Slug: portfoliogrove/header
- * Categories: header, portfoliogrove
+ * Slug: caioportfolio/header
+ * Categories: header, caioportfolio
  * Keywords: header
  * Block Types: core/template-part/header
  */

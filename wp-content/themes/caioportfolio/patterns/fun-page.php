@@ -1,11 +1,11 @@
 <?php
 /**
  * Title: Fun Page
- * Slug: portfoliogrove/fun-page
- * Categories: portfoliogrove
+ * Slug: caioportfolio/fun-page
+ * Categories: caioportfolio
  * Block Types: core/post-content
  * Post Types: page, wp_template
  */
 ?>
-<!-- wp:pattern {"slug":"portfoliogrove/cta"} /-->
-<!-- wp:pattern {"slug":"portfoliogrove/services"} /-->
+<!-- wp:pattern {"slug":"caioportfolio/cta"} /-->
+<!-- wp:pattern {"slug":"caioportfolio/services"} /-->

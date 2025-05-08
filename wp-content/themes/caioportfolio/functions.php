@@ -2,37 +2,37 @@
 
 
 /**
- * PortfolioGrove functions and definitions
+ * caioportfolio functions and definitions
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
- * @subpackage PortfolioGrove
- * @since PortfolioGrove 1.0
+ * @subpackage yes pleaioportfolio
+ * @since caioportfolio 1.0
  */
 
- function portfoliogrove_block_assets(){
+ function caioportfolio_block_assets(){
     // Enqueue theme stylesheet for the front-end.
-    wp_enqueue_style( 'portfoliogrove-style', get_stylesheet_directory_uri() . '/style.css', array(), wp_get_theme()->get( 'Version' ) );
-	wp_enqueue_style( 'portfoliogrove-fontawesome', get_stylesheet_directory_uri() . '/assets/font-awesome/css/all.css', array(), '5.15.3' );
-	wp_enqueue_style( 'portfoliogrove-animatecss', get_stylesheet_directory_uri() . '/assets/css/animate.css');
-	wp_enqueue_script('portfoliogrove-wow-script', get_stylesheet_directory_uri() . '/assets/js/wow.js', array('jquery'));
-	wp_enqueue_script('portfoliogrove-main-script', get_stylesheet_directory_uri() . '/assets/js/script.js', array('jquery'), '1.0.0', true);
-	wp_enqueue_script('portfoliogrove-jquery-sticky', get_stylesheet_directory_uri() . '/assets/js/jquery-sticky.js', array('jquery') );    
+    wp_enqueue_style( 'caioportfolio-style', get_stylesheet_directory_uri() . '/style.css', array(), wp_get_theme()->get( 'Version' ) );
+	wp_enqueue_style( 'caioportfolio-fontawesome', get_stylesheet_directory_uri() . '/assets/font-awesome/css/all.css', array(), '5.15.3' );
+	wp_enqueue_style( 'caioportfolio-animatecss', get_stylesheet_directory_uri() . '/assets/css/animate.css');
+	wp_enqueue_script('caioportfolio-wow-script', get_stylesheet_directory_uri() . '/assets/js/wow.js', array('jquery'));
+	wp_enqueue_script('caioportfolio-main-script', get_stylesheet_directory_uri() . '/assets/js/script.js', array('jquery'), '1.0.0', true);
+	wp_enqueue_script('caioportfolio-jquery-sticky', get_stylesheet_directory_uri() . '/assets/js/jquery-sticky.js', array('jquery') );    
 }
 
-add_action('enqueue_block_assets', 'portfoliogrove_block_assets');
+add_action('enqueue_block_assets', 'caioportfolio_block_assets');
 
 // register own theme pattern
 
-function portfoliogrove_register_pattern_category() {
+function caioportfolio_register_pattern_category() {
 
 	$patterns = array();
 
 	$block_pattern_categories = array(
-		'portfoliogrove' => array( 'label' => __( 'PortfolioGrove', 'portfoliogrove' ) )
+		'caioportfolio' => array( 'label' => __( 'caioportfolio', 'caioportfolio' ) )
 	);
 
-	$block_pattern_categories = apply_filters( 'portfoliogrove_block_pattern_categories', $block_pattern_categories );
+	$block_pattern_categories = apply_filters( 'caioportfolio_block_pattern_categories', $block_pattern_categories );
 
 	foreach ( $block_pattern_categories as $name => $properties ) {
 		if ( ! WP_Block_Pattern_Categories_Registry::get_instance()->is_registered( $name ) ) {
@@ -41,4 +41,4 @@ function portfoliogrove_register_pattern_category() {
 	}
 }
 
-add_action( 'init', 'portfoliogrove_register_pattern_category');
+add_action( 'init', 'caioportfolio_register_pattern_category');

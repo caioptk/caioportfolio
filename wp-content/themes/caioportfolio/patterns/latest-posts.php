@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Latest Posts
- * Slug: portfoliogrove/latest-posts
- * Categories: portfoliogrove
+ * Slug: caioportfolio/latest-posts
+ * Categories: caioportfolio
  * Keywords: latest-posts
  */
 ?>
@@ -13,7 +13,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"letterSpacing":"4px","lineHeight":"1.3"},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"x-large","fontFamily":"header-font"} -->
-<h2 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-header-font-font-family has-x-large-font-size" style="letter-spacing:4px;line-height:1.3"><?php echo esc_html__( 'RECENT NEWS', 'portfoliogrove' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-header-font-font-family has-x-large-font-size" style="letter-spacing:4px;line-height:1.3"><?php echo esc_html__( 'RECENT NEWS', 'caioportfolio' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:separator {"style":{"layout":{"selfStretch":"fill","flexSize":null},"color":{"background":"#cccccc"}}} -->

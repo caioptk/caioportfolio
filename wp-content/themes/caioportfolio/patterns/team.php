@@ -1,7 +1,7 @@
 <?php
  /**
   * Title: Team
-  * Slug: portfoliogrove/team
+  * Slug: caioportfolio/team
   */
 ?>
 <!-- wp:group {"metadata":{"name":"My Team"},"style":{"spacing":{"padding":{"right":"var:preset|spacing|20","left":"var:preset|spacing|20","top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
@@ -11,7 +11,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"letterSpacing":"4px","lineHeight":"1.3"},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"x-large","fontFamily":"header-font"} -->
-<h2 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-header-font-font-family has-x-large-font-size" style="letter-spacing:4px;line-height:1.3"><?php echo esc_html__( 'MY TEAM', 'portfoliogrove' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-header-font-font-family has-x-large-font-size" style="letter-spacing:4px;line-height:1.3"><?php echo esc_html__( 'MY TEAM', 'caioportfolio' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:separator {"style":{"layout":{"selfStretch":"fill","flexSize":null},"color":{"background":"#cccccc"}}} -->
@@ -27,11 +27,11 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"fontStyle":"normal","fontWeight":"700"}},"textColor":"secondary","fontSize":"mdm-large","fontFamily":"header-font"} -->
-<p class="has-text-align-center has-secondary-color has-text-color has-link-color has-header-font-font-family has-mdm-large-font-size" style="font-style:normal;font-weight:700"><?php echo esc_html__( 'Sylvester Stallone', 'portfoliogrove' ); ?></p>
+<p class="has-text-align-center has-secondary-color has-text-color has-link-color has-header-font-font-family has-mdm-large-font-size" style="font-style:normal;font-weight:700"><?php echo esc_html__( 'Sylvester Stallone', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"small"} -->
-<p class="has-text-align-center has-secondary-color has-text-color has-link-color has-small-font-size" style="margin-top:0;margin-bottom:0"><?php echo esc_html__( 'Designer', 'portfoliogrove' ); ?></p>
+<p class="has-text-align-center has-secondary-color has-text-color has-link-color has-small-font-size" style="margin-top:0;margin-bottom:0"><?php echo esc_html__( 'Designer', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:social-links {"style":{"spacing":{"margin":{"top":"var:preset|spacing|10","bottom":"0"}}},"className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"center"}} -->
@@ -51,11 +51,11 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"fontStyle":"normal","fontWeight":"700"}},"textColor":"secondary","fontSize":"mdm-large","fontFamily":"header-font"} -->
-<p class="has-text-align-center has-secondary-color has-text-color has-link-color has-header-font-font-family has-mdm-large-font-size" style="font-style:normal;font-weight:700"><?php echo esc_html__( 'Lucy Liu', 'portfoliogrove' ); ?></p>
+<p class="has-text-align-center has-secondary-color has-text-color has-link-color has-header-font-font-family has-mdm-large-font-size" style="font-style:normal;font-weight:700"><?php echo esc_html__( 'Lucy Liu', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"small"} -->
-<p class="has-text-align-center has-secondary-color has-text-color has-link-color has-small-font-size" style="margin-top:0;margin-bottom:0"><?php echo esc_html__( 'Developer', 'portfoliogrove' ); ?></p>
+<p class="has-text-align-center has-secondary-color has-text-color has-link-color has-small-font-size" style="margin-top:0;margin-bottom:0"><?php echo esc_html__( 'Developer', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:social-links {"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"center"}} -->
@@ -75,11 +75,11 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"fontStyle":"normal","fontWeight":"700"}},"textColor":"secondary","fontSize":"mdm-large","fontFamily":"header-font"} -->
-<p class="has-text-align-center has-secondary-color has-text-color has-link-color has-header-font-font-family has-mdm-large-font-size" style="font-style:normal;font-weight:700"><strong><?php echo esc_html__( 'Nattasha', 'portfoliogrove' ); ?></strong></p>
+<p class="has-text-align-center has-secondary-color has-text-color has-link-color has-header-font-font-family has-mdm-large-font-size" style="font-style:normal;font-weight:700"><strong><?php echo esc_html__( 'Nattasha', 'caioportfolio' ); ?></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"small"} -->
-<p class="has-text-align-center has-secondary-color has-text-color has-link-color has-small-font-size" style="margin-top:0;margin-bottom:0"><?php echo esc_html__( 'Designer', 'portfoliogrove' ); ?></p>
+<p class="has-text-align-center has-secondary-color has-text-color has-link-color has-small-font-size" style="margin-top:0;margin-bottom:0"><?php echo esc_html__( 'Designer', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:social-links {"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"center"}} -->
@@ -99,11 +99,11 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"fontStyle":"normal","fontWeight":"700"}},"textColor":"secondary","fontSize":"mdm-large","fontFamily":"header-font"} -->
-<p class="has-text-align-center has-secondary-color has-text-color has-link-color has-header-font-font-family has-mdm-large-font-size" style="font-style:normal;font-weight:700"><strong><?php echo esc_html__( 'Mitchell', 'portfoliogrove' ); ?></strong></p>
+<p class="has-text-align-center has-secondary-color has-text-color has-link-color has-header-font-font-family has-mdm-large-font-size" style="font-style:normal;font-weight:700"><strong><?php echo esc_html__( 'Mitchell', 'caioportfolio' ); ?></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"small"} -->
-<p class="has-text-align-center has-secondary-color has-text-color has-link-color has-small-font-size" style="margin-top:0;margin-bottom:0">UI/UX <?php echo esc_html__( 'Designer', 'portfoliogrove' ); ?></p>
+<p class="has-text-align-center has-secondary-color has-text-color has-link-color has-small-font-size" style="margin-top:0;margin-bottom:0">UI/UX <?php echo esc_html__( 'Designer', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:social-links {"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"center"}} -->

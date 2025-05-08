@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Testimonials
- * Slug: portfoliogrove/testimonials
- * Categories: portfoliogrove
+ * Slug: caioportfolio/testimonials
+ * Categories: caioportfolio
  * Keywords: testimonials
  */
 ?>
@@ -13,7 +13,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"letterSpacing":"4px","lineHeight":"1.3"},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"x-large","fontFamily":"header-font"} -->
-<h2 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-header-font-font-family has-x-large-font-size" style="letter-spacing:4px;line-height:1.3"><?php echo esc_html__( 'TESTIMONIALS', 'portfoliogrove' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-header-font-font-family has-x-large-font-size" style="letter-spacing:4px;line-height:1.3"><?php echo esc_html__( 'TESTIMONIALS', 'caioportfolio' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:separator {"style":{"layout":{"selfStretch":"fill","flexSize":null},"color":{"background":"#cccccc"}}} -->
@@ -23,7 +23,7 @@
 
 <!-- wp:group {"style":{"color":{"background":"#fff4f0"},"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|40","right":"var:preset|spacing|40"},"margin":{"top":"0","bottom":"0"}},"border":{"radius":"10px"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-background" style="border-radius:10px;background-color:#fff4f0;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--40)"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}},"textColor":"secondary"} -->
-<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color" style="margin-bottom:var(--wp--preset--spacing--40)"><?php echo esc_html__( 'What People are Saying', 'portfoliogrove' ); ?> <br><?php echo esc_html__( 'About My Work', 'portfoliogrove' ); ?></h2>
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color" style="margin-bottom:var(--wp--preset--spacing--40)"><?php echo esc_html__( 'What People are Saying', 'caioportfolio' ); ?> <br><?php echo esc_html__( 'About My Work', 'caioportfolio' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"},"margin":{"top":"0","bottom":"0"}},"border":{"radius":"10px","width":"1px"}},"borderColor":"primary","layout":{"type":"constrained"}} -->
@@ -34,11 +34,11 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"mdm-large","fontFamily":"header-font"} -->
-<p class="has-secondary-color has-text-color has-link-color has-header-font-font-family has-mdm-large-font-size" style="font-style:normal;font-weight:700"><?php echo esc_html__( 'Marilyn Monroe', 'portfoliogrove' ); ?></p>
+<p class="has-secondary-color has-text-color has-link-color has-header-font-font-family has-mdm-large-font-size" style="font-style:normal;font-weight:700"><?php echo esc_html__( 'Marilyn Monroe', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size"><?php echo esc_html__( 'Content Writer', 'portfoliogrove' ); ?></p>
+<p class="has-small-font-size"><?php echo esc_html__( 'Content Writer', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
@@ -52,7 +52,7 @@
 
 <!-- wp:column {"verticalAlignment":"center","width":"90%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:90%"><!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Rutrum lacinia lorem turpis neque sociosqu aptent cras venenatis laoreet. Ipsum mi auctor dapibus netus duis est vulputate mattis aliquet hac arcu. Phasellus duis proin molestie suspendisse vestibulum. Elementum phasellus ac congue lectus ipsum dis sagittis platea habitant ad sed. Leo himenaeos ornare proin potenti mauris gravida', 'portfoliogrove' ); ?> </p>
+<p><?php echo esc_html__( 'Rutrum lacinia lorem turpis neque sociosqu aptent cras venenatis laoreet. Ipsum mi auctor dapibus netus duis est vulputate mattis aliquet hac arcu. Phasellus duis proin molestie suspendisse vestibulum. Elementum phasellus ac congue lectus ipsum dis sagittis platea habitant ad sed. Leo himenaeos ornare proin potenti mauris gravida', 'caioportfolio' ); ?> </p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
@@ -66,11 +66,11 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"mdm-large","fontFamily":"header-font"} -->
-<p class="has-secondary-color has-text-color has-link-color has-header-font-font-family has-mdm-large-font-size" style="font-style:normal;font-weight:700"><?php echo esc_html__( 'Milla Jovovich', 'portfoliogrove' ); ?></p>
+<p class="has-secondary-color has-text-color has-link-color has-header-font-font-family has-mdm-large-font-size" style="font-style:normal;font-weight:700"><?php echo esc_html__( 'Milla Jovovich', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size"><?php echo esc_html__( 'Designer', 'portfoliogrove' ); ?></p>
+<p class="has-small-font-size"><?php echo esc_html__( 'Designer', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
@@ -84,7 +84,7 @@
 
 <!-- wp:column {"verticalAlignment":"center","width":"90%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:90%"><!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Rutrum lacinia lorem turpis neque sociosqu aptent cras venenatis laoreet. Ipsum mi auctor dapibus netus duis est vulputate mattis aliquet hac arcu. Phasellus duis proin molestie suspendisse vestibulum. Elementum phasellus ac congue lectus ipsum dis sagittis platea habitant ad sed. Leo himenaeos ornare proin potenti mauris gravida', 'portfoliogrove' ); ?> </p>
+<p><?php echo esc_html__( 'Rutrum lacinia lorem turpis neque sociosqu aptent cras venenatis laoreet. Ipsum mi auctor dapibus netus duis est vulputate mattis aliquet hac arcu. Phasellus duis proin molestie suspendisse vestibulum. Elementum phasellus ac congue lectus ipsum dis sagittis platea habitant ad sed. Leo himenaeos ornare proin potenti mauris gravida', 'caioportfolio' ); ?> </p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
@@ -98,11 +98,11 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"mdm-large","fontFamily":"header-font"} -->
-<p class="has-secondary-color has-text-color has-link-color has-header-font-font-family has-mdm-large-font-size" style="font-style:normal;font-weight:700"><?php echo esc_html__( 'Dennish Hopper', 'portfoliogrove' ); ?></p>
+<p class="has-secondary-color has-text-color has-link-color has-header-font-font-family has-mdm-large-font-size" style="font-style:normal;font-weight:700"><?php echo esc_html__( 'Dennish Hopper', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size"><?php echo esc_html__( 'Developer', 'portfoliogrove' ); ?></p>
+<p class="has-small-font-size"><?php echo esc_html__( 'Developer', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
@@ -116,7 +116,7 @@
 
 <!-- wp:column {"verticalAlignment":"center","width":"90%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:90%"><!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Rutrum lacinia lorem turpis neque sociosqu aptent cras venenatis laoreet. Ipsum mi auctor dapibus netus duis est vulputate mattis aliquet hac arcu. Phasellus duis proin molestie suspendisse vestibulum. Elementum phasellus ac congue lectus ipsum dis sagittis platea habitant ad sed. Leo himenaeos ornare proin potenti mauris gravida', 'portfoliogrove' ); ?> </p>
+<p><?php echo esc_html__( 'Rutrum lacinia lorem turpis neque sociosqu aptent cras venenatis laoreet. Ipsum mi auctor dapibus netus duis est vulputate mattis aliquet hac arcu. Phasellus duis proin molestie suspendisse vestibulum. Elementum phasellus ac congue lectus ipsum dis sagittis platea habitant ad sed. Leo himenaeos ornare proin potenti mauris gravida', 'caioportfolio' ); ?> </p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
@@ -130,11 +130,11 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"mdm-large","fontFamily":"header-font"} -->
-<p class="has-secondary-color has-text-color has-link-color has-header-font-font-family has-mdm-large-font-size" style="font-style:normal;font-weight:700"><?php echo esc_html__( 'Nattasha', 'portfoliogrove' ); ?></p>
+<p class="has-secondary-color has-text-color has-link-color has-header-font-font-family has-mdm-large-font-size" style="font-style:normal;font-weight:700"><?php echo esc_html__( 'Nattasha', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size"><?php echo esc_html__( 'Artist', 'portfoliogrove' ); ?></p>
+<p class="has-small-font-size"><?php echo esc_html__( 'Artist', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
@@ -148,7 +148,7 @@
 
 <!-- wp:column {"verticalAlignment":"center","width":"90%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:90%"><!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Rutrum lacinia lorem turpis neque sociosqu aptent cras venenatis laoreet. Ipsum mi auctor dapibus netus duis est vulputate mattis aliquet hac arcu. Phasellus duis proin molestie suspendisse vestibulum. Elementum phasellus ac congue lectus ipsum dis sagittis platea habitant ad sed. Leo himenaeos ornare proin potenti mauris gravida', 'portfoliogrove' ); ?> </p>
+<p><?php echo esc_html__( 'Rutrum lacinia lorem turpis neque sociosqu aptent cras venenatis laoreet. Ipsum mi auctor dapibus netus duis est vulputate mattis aliquet hac arcu. Phasellus duis proin molestie suspendisse vestibulum. Elementum phasellus ac congue lectus ipsum dis sagittis platea habitant ad sed. Leo himenaeos ornare proin potenti mauris gravida', 'caioportfolio' ); ?> </p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>

@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Footer
- * Slug: portfoliogrove/footer
- * Categories: footer,portfoliogrove
+ * Slug: caioportfolio/footer
+ * Categories: footer,caioportfolio
  * Keywords: footer
  * Block Types: core/template-part/footer
  */
@@ -11,7 +11,7 @@
 <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40)"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"large"} -->
-<p class="has-secondary-color has-text-color has-link-color has-large-font-size"><?php echo esc_html__( 'Work', 'portfoliogrove' ); ?></p>
+<p class="has-secondary-color has-text-color has-link-color has-large-font-size"><?php echo esc_html__( 'Work', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":4888,"width":"44px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
@@ -19,7 +19,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"large"} -->
-<p class="has-secondary-color has-text-color has-link-color has-large-font-size"><?php echo esc_html__( 'Get in Touch', 'portfoliogrove' ); ?></p>
+<p class="has-secondary-color has-text-color has-link-color has-large-font-size"><?php echo esc_html__( 'Get in Touch', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":4888,"width":"40px","sizeSlug":"full","linkDestination":"none"} -->
@@ -27,7 +27,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"large"} -->
-<p class="has-secondary-color has-text-color has-link-color has-large-font-size"><?php echo esc_html__( 'Available for Work', 'portfoliogrove' ); ?></p>
+<p class="has-secondary-color has-text-color has-link-color has-large-font-size"><?php echo esc_html__( 'Available for Work', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":4888,"width":"44px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
@@ -35,7 +35,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"large"} -->
-<p class="has-secondary-color has-text-color has-link-color has-large-font-size"><?php echo esc_html__( 'Get in Touch', 'portfoliogrove' ); ?></p>
+<p class="has-secondary-color has-text-color has-link-color has-large-font-size"><?php echo esc_html__( 'Get in Touch', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":4888,"width":"40px","sizeSlug":"full","linkDestination":"none"} -->
@@ -43,7 +43,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"large"} -->
-<p class="has-secondary-color has-text-color has-link-color has-large-font-size"><?php echo esc_html__( 'Work', 'portfoliogrove' ); ?></p>
+<p class="has-secondary-color has-text-color has-link-color has-large-font-size"><?php echo esc_html__( 'Work', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
@@ -53,15 +53,15 @@
 <div class="wp-block-columns"><!-- wp:column {"width":"","layout":{"type":"default"}} -->
 <div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"fontSize":"mdm-large","fontFamily":"header-font"} -->
-<p class="has-header-font-font-family has-mdm-large-font-size"><a href="#"><?php echo esc_html__( 'Home', 'portfoliogrove' ); ?></a></p>
+<p class="has-header-font-font-family has-mdm-large-font-size"><a href="#"><?php echo esc_html__( 'Home', 'caioportfolio' ); ?></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"mdm-large","fontFamily":"header-font"} -->
-<p class="has-header-font-font-family has-mdm-large-font-size"><a href="#"><?php echo esc_html__( 'Work', 'portfoliogrove' ); ?></a></p>
+<p class="has-header-font-font-family has-mdm-large-font-size"><a href="#"><?php echo esc_html__( 'Work', 'caioportfolio' ); ?></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"mdm-large","fontFamily":"header-font"} -->
-<p class="has-header-font-font-family has-mdm-large-font-size"><a href="#"><?php echo esc_html__( 'Me', 'portfoliogrove' ); ?></a></p>
+<p class="has-header-font-font-family has-mdm-large-font-size"><a href="#"><?php echo esc_html__( 'Me', 'caioportfolio' ); ?></a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -69,15 +69,15 @@
 <!-- wp:column {"width":""} -->
 <div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"fontSize":"mdm-large","fontFamily":"header-font"} -->
-<p class="has-header-font-font-family has-mdm-large-font-size"><a href="#"><?php echo esc_html__( 'Linkedin', 'portfoliogrove' ); ?></a></p>
+<p class="has-header-font-font-family has-mdm-large-font-size"><a href="#"><?php echo esc_html__( 'Linkedin', 'caioportfolio' ); ?></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"mdm-large","fontFamily":"header-font"} -->
-<p class="has-header-font-font-family has-mdm-large-font-size"><a href="#"><?php echo esc_html__( 'Instagram', 'portfoliogrove' ); ?></a></p>
+<p class="has-header-font-font-family has-mdm-large-font-size"><a href="#"><?php echo esc_html__( 'Instagram', 'caioportfolio' ); ?></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"mdm-large","fontFamily":"header-font"} -->
-<p class="has-header-font-font-family has-mdm-large-font-size"><a href="#"><?php echo esc_html__( 'Twitter', 'portfoliogrove' ); ?></a></p>
+<p class="has-header-font-font-family has-mdm-large-font-size"><a href="#"><?php echo esc_html__( 'Twitter', 'caioportfolio' ); ?></a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -85,15 +85,15 @@
 <!-- wp:column {"width":""} -->
 <div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"fontSize":"mdm-large","fontFamily":"header-font"} -->
-<p class="has-header-font-font-family has-mdm-large-font-size"><a href="#"><?php echo esc_html__( 'Mobile App', 'portfoliogrove' ); ?></a></p>
+<p class="has-header-font-font-family has-mdm-large-font-size"><a href="#"><?php echo esc_html__( 'Mobile App', 'caioportfolio' ); ?></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"mdm-large","fontFamily":"header-font"} -->
-<p class="has-header-font-font-family has-mdm-large-font-size"><a href="#"><?php echo esc_html__( 'UI', 'portfoliogrove' ); ?>  &amp; <?php echo esc_html__( 'UX Design', 'portfoliogrove' ); ?></a></p>
+<p class="has-header-font-font-family has-mdm-large-font-size"><a href="#"><?php echo esc_html__( 'UI', 'caioportfolio' ); ?>  &amp; <?php echo esc_html__( 'UX Design', 'caioportfolio' ); ?></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"mdm-large","fontFamily":"header-font"} -->
-<p class="has-header-font-font-family has-mdm-large-font-size"><a href="#"><?php echo esc_html__( 'Web Design', 'portfoliogrove' ); ?></a></p>
+<p class="has-header-font-font-family has-mdm-large-font-size"><a href="#"><?php echo esc_html__( 'Web Design', 'caioportfolio' ); ?></a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -102,16 +102,16 @@
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:40%"><!-- wp:group {"style":{"border":{"radius":"10px"},"spacing":{"blockGap":"12px","padding":{"top":"0","bottom":"0","left":"0","right":"0"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
 <div class="wp-block-group" style="border-radius:10px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"fontSize":"mdm-large","fontFamily":"header-font"} -->
-<p class="has-header-font-font-family has-mdm-large-font-size"><?php echo esc_html__( 'Get in Touch', 'portfoliogrove' ); ?></p>
+<p class="has-header-font-font-family has-mdm-large-font-size"><?php echo esc_html__( 'Get in Touch', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Suspendisse ornare ante dictum nostra', 'portfoliogrove' ); ?></p>
+<p><?php echo esc_html__( 'Suspendisse ornare ante dictum nostra', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Add yours from shortcode', 'portfoliogrove' ); ?></p>
+<p><?php echo esc_html__( 'Add yours from shortcode', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
@@ -121,12 +121,12 @@
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"},"margin":{"top":"0","bottom":"0"}},"border":{"top":{"color":"#d092ba","width":"1px"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="border-top-color:#d092ba;border-top-width:1px;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:group {"style":{"border":{"top":{"width":"0px","style":"none"},"right":[],"bottom":[],"left":[]},"spacing":{"padding":{"top":"0"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
 <div class="wp-block-group" style="border-top-style:none;border-top-width:0px;padding-top:0"><!-- wp:paragraph {"fontSize":"sml-medium"} -->
-<p class="has-sml-medium-font-size"><?php echo esc_html__( 'Developed By', 'portfoliogrove' ); ?> <a href="#"><?php echo esc_html__( 'Themegrove.com', 'portfoliogrove' ); ?></a></p>
+<p class="has-sml-medium-font-size"><?php echo esc_html__( 'Developed By', 'caioportfolio' ); ?> <a href="#"><?php echo esc_html__( 'Themegrove.com', 'caioportfolio' ); ?></a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:paragraph {"className":"portfoliogrove-scrool-top"} -->
-<p class="portfoliogrove-scrool-top"></p>
+<!-- wp:paragraph {"className":"caioportfolio-scrool-top"} -->
+<p class="caioportfolio-scrool-top"></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->

@@ -1,7 +1,7 @@
 <?php
  /**
   * Title: Blog Left
-  * Slug: portfoliogrove/blog-left
+  * Slug: caioportfolio/blog-left
   * Inserter: no
   */
 ?>
@@ -12,7 +12,7 @@
 <!-- wp:group {"tagName":"main","style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"},"padding":{"right":"20px","left":"20px"}}},"layout":{"type":"constrained"}} -->
 <main class="wp-block-group" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40);padding-right:20px;padding-left:20px"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"33.33%","style":{"spacing":{"padding":{"left":"0"}}}} -->
-<div class="wp-block-column" style="padding-left:0;flex-basis:33.33%"><!-- wp:template-part {"slug":"sidebar","theme":"portfoliogrove","area":"uncategorized"} /--></div>
+<div class="wp-block-column" style="padding-left:0;flex-basis:33.33%"><!-- wp:template-part {"slug":"sidebar","theme":"caioportfolio","area":"uncategorized"} /--></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"66.66%"} -->
@@ -51,7 +51,7 @@
 
 <!-- wp:query-no-results -->
 <!-- wp:paragraph {"align":"center","placeholder":"Add text or blocks that will display when a query returns no results."} -->
-<p class="has-text-align-center"> <?php echo esc_html__( 'No posts found', 'portfoliogrove' ); ?> </p>
+<p class="has-text-align-center"> <?php echo esc_html__( 'No posts found', 'caioportfolio' ); ?> </p>
 <!-- /wp:paragraph -->
 <!-- /wp:query-no-results --></div>
 <!-- /wp:query --></div>

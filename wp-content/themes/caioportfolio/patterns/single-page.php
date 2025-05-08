@@ -1,7 +1,7 @@
 <?php
  /**
   * Title: Single Page
-  * Slug: portfoliogrove/single-page
+  * Slug: caioportfolio/single-page
   * Inserter: no
   */
 ?>

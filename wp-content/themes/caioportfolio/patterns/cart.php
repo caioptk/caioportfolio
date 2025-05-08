@@ -1,7 +1,7 @@
 <?php
  /**
   * Title: Cart
-  * Slug: portfoliogrove/cart
+  * Slug: caioportfolio/cart
   * Inserter: no
   */
 ?>
@@ -15,7 +15,7 @@
 
 <!-- wp:woocommerce/cart-cross-sells-block -->
 <div class="wp-block-woocommerce-cart-cross-sells-block"><!-- wp:heading {"fontSize":"large"} -->
-<h2 class="wp-block-heading has-large-font-size"><?php echo esc_html__( 'You may be interested in…', 'portfoliogrove' ); ?></h2>
+<h2 class="wp-block-heading has-large-font-size"><?php echo esc_html__( 'You may be interested in…', 'caioportfolio' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:woocommerce/cart-cross-sells-products-block -->
@@ -71,7 +71,7 @@
 
 <!-- wp:woocommerce/empty-cart-block -->
 <div class="wp-block-woocommerce-empty-cart-block"><!-- wp:heading {"textAlign":"center","className":"with-empty-cart-icon wc-block-cart__empty-cart__title"} -->
-<h2 class="wp-block-heading has-text-align-center with-empty-cart-icon wc-block-cart__empty-cart__title"><?php echo esc_html__( 'Your cart is currently empty!', 'portfoliogrove' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center with-empty-cart-icon wc-block-cart__empty-cart__title"><?php echo esc_html__( 'Your cart is currently empty!', 'caioportfolio' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:separator {"className":"is-style-dots"} -->
@@ -79,7 +79,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center"><?php echo esc_html__( 'New in store', 'portfoliogrove' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center"><?php echo esc_html__( 'New in store', 'caioportfolio' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:woocommerce/product-new {"columns":4,"rows":1} /--></div>

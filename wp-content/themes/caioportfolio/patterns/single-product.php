@@ -1,13 +1,13 @@
 <?php
  /**
   * Title: Single Product
-  * Slug: portfoliogrove/single-product
+  * Slug: caioportfolio/single-product
   * Inserter: no
   */
 ?>
 <!-- wp:cover {"overlayColor":"primary","minHeight":232,"minHeightUnit":"px","tagName":"main","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <main class="wp-block-cover" style="margin-top:0;margin-bottom:0;min-height:232px"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim-100 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}}} -->
-    <h2 class="wp-block-heading has-text-align-center" style="font-style:normal;font-weight:500"> <?php echo esc_html__( 'Single Product', 'portfoliogrove' ); ?> </h2>
+    <h2 class="wp-block-heading has-text-align-center" style="font-style:normal;font-weight:500"> <?php echo esc_html__( 'Single Product', 'caioportfolio' ); ?> </h2>
     <!-- /wp:heading -->
     
     <!-- wp:spacer {"height":"20px"} -->
@@ -55,7 +55,7 @@
     <!-- wp:woocommerce/related-products {"align":"wide"} -->
     <div class="wp-block-woocommerce-related-products alignwide"><!-- wp:query {"queryId":0,"query":{"perPage":5,"pages":0,"offset":0,"postType":"product","order":"asc","orderBy":"title","author":"","search":"","exclude":[],"sticky":"","inherit":false},"namespace":"woocommerce/related-products","lock":{"remove":true,"move":true}} -->
     <div class="wp-block-query"><!-- wp:heading -->
-    <h2 class="wp-block-heading"><?php echo esc_html__( 'Related Products', 'portfoliogrove' ); ?></h2>
+    <h2 class="wp-block-heading"><?php echo esc_html__( 'Related Products', 'caioportfolio' ); ?></h2>
     <!-- /wp:heading -->
     
     <!-- wp:spacer {"height":"14px"} -->

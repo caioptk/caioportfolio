@@ -1,7 +1,7 @@
 <?php
  /**
   * Title: Archive Product
-  * Slug: portfoliogrove/archive-product
+  * Slug: caioportfolio/archive-product
   * Inserter: no
   */
 ?>
@@ -52,7 +52,7 @@
     <!-- wp:query-no-results -->
     <!-- wp:paragraph -->
     <p>
-    <?php echo esc_html__( ' No products were found matching your selection. ', 'portfoliogrove' ); ?> </p>
+    <?php echo esc_html__( ' No products were found matching your selection. ', 'caioportfolio' ); ?> </p>
     <!-- /wp:paragraph -->
     <!-- /wp:query-no-results --></div>
     <!-- /wp:query -->

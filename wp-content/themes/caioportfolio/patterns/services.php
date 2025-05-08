@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Services
- * Slug: portfoliogrove/services
- * Categories: portfoliogrove
+ * Slug: caioportfolio/services
+ * Categories: caioportfolio
  * Keywords: services
  */
 ?>
@@ -13,7 +13,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"letterSpacing":"4px","lineHeight":"1.3"},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"x-large","fontFamily":"header-font"} -->
-<h2 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-header-font-font-family has-x-large-font-size" style="letter-spacing:4px;line-height:1.3"><?php echo esc_html__( 'SERVICES', 'portfoliogrove' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-header-font-font-family has-x-large-font-size" style="letter-spacing:4px;line-height:1.3"><?php echo esc_html__( 'SERVICES', 'caioportfolio' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:separator {"style":{"layout":{"selfStretch":"fill","flexSize":null},"color":{"background":"#cccccc"}}} -->
@@ -30,20 +30,20 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
-<h3 class="wp-block-heading has-secondary-color has-text-color has-link-color"><?php echo esc_html__( 'Mobile App', 'portfoliogrove' ); ?></h3>
+<h3 class="wp-block-heading has-secondary-color has-text-color has-link-color"><?php echo esc_html__( 'Mobile App', 'caioportfolio' ); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
-<p class="has-secondary-color has-text-color has-link-color"><?php echo esc_html__( 'Lorem aliquet sit tristique viverra quam si duis Vel montes justo', 'portfoliogrove' ); ?></p>
+<p class="has-secondary-color has-text-color has-link-color"><?php echo esc_html__( 'Lorem aliquet sit tristique viverra quam si duis Vel montes justo', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
 <ul class="has-secondary-color has-text-color has-link-color"><!-- wp:list-item -->
-<li><?php echo esc_html__( 'Web and Mobile App Design', 'portfoliogrove' ); ?></li>
+<li><?php echo esc_html__( 'Web and Mobile App Design', 'caioportfolio' ); ?></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><?php echo esc_html__( 'Front-end Development', 'portfoliogrove' ); ?></li>
+<li><?php echo esc_html__( 'Front-end Development', 'caioportfolio' ); ?></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></div>
 <!-- /wp:group --></div>
@@ -56,20 +56,20 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
-<h3 class="wp-block-heading has-secondary-color has-text-color has-link-color"><?php echo esc_html__( 'UI/UX Design', 'portfoliogrove' ); ?></h3>
+<h3 class="wp-block-heading has-secondary-color has-text-color has-link-color"><?php echo esc_html__( 'UI/UX Design', 'caioportfolio' ); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
-<p class="has-secondary-color has-text-color has-link-color"><?php echo esc_html__( 'Lorem aliquet sit tristique viverra quam si duis Vel montes justo', 'portfoliogrove' ); ?></p>
+<p class="has-secondary-color has-text-color has-link-color"><?php echo esc_html__( 'Lorem aliquet sit tristique viverra quam si duis Vel montes justo', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
 <ul class="has-secondary-color has-text-color has-link-color"><!-- wp:list-item -->
-<li><?php echo esc_html__( 'Web and Mobile App Design', 'portfoliogrove' ); ?></li>
+<li><?php echo esc_html__( 'Web and Mobile App Design', 'caioportfolio' ); ?></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><?php echo esc_html__( 'Front-end Development', 'portfoliogrove' ); ?></li>
+<li><?php echo esc_html__( 'Front-end Development', 'caioportfolio' ); ?></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></div>
 <!-- /wp:group --></div>
@@ -82,20 +82,20 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
-<h3 class="wp-block-heading has-secondary-color has-text-color has-link-color"><?php echo esc_html__( 'Strategy', 'portfoliogrove' ); ?> &amp; <?php echo esc_html__( 'Direction', 'portfoliogrove' ); ?></h3>
+<h3 class="wp-block-heading has-secondary-color has-text-color has-link-color"><?php echo esc_html__( 'Strategy', 'caioportfolio' ); ?> &amp; <?php echo esc_html__( 'Direction', 'caioportfolio' ); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
-<p class="has-secondary-color has-text-color has-link-color"><?php echo esc_html__( 'Lorem aliquet sit tristique viverra quam si duis Vel montes justo', 'portfoliogrove' ); ?></p>
+<p class="has-secondary-color has-text-color has-link-color"><?php echo esc_html__( 'Lorem aliquet sit tristique viverra quam si duis Vel montes justo', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
 <ul class="has-secondary-color has-text-color has-link-color"><!-- wp:list-item -->
-<li><?php echo esc_html__( 'Web and Mobile App Design', 'portfoliogrove' ); ?></li>
+<li><?php echo esc_html__( 'Web and Mobile App Design', 'caioportfolio' ); ?></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><?php echo esc_html__( 'Front-end Development', 'portfoliogrove' ); ?></li>
+<li><?php echo esc_html__( 'Front-end Development', 'caioportfolio' ); ?></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></div>
 <!-- /wp:group --></div>
@@ -110,20 +110,20 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
-<h3 class="wp-block-heading has-secondary-color has-text-color has-link-color"><?php echo esc_html__( 'App Development', 'portfoliogrove' ); ?></h3>
+<h3 class="wp-block-heading has-secondary-color has-text-color has-link-color"><?php echo esc_html__( 'App Development', 'caioportfolio' ); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
-<p class="has-secondary-color has-text-color has-link-color"><?php echo esc_html__( 'Lorem aliquet sit tristique viverra quam si duis Vel montes justo', 'portfoliogrove' ); ?></p>
+<p class="has-secondary-color has-text-color has-link-color"><?php echo esc_html__( 'Lorem aliquet sit tristique viverra quam si duis Vel montes justo', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
 <ul class="has-secondary-color has-text-color has-link-color"><!-- wp:list-item -->
-<li><?php echo esc_html__( 'Web and Mobile App Design', 'portfoliogrove' ); ?></li>
+<li><?php echo esc_html__( 'Web and Mobile App Design', 'caioportfolio' ); ?></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><?php echo esc_html__( 'Front-end Development', 'portfoliogrove' ); ?></li>
+<li><?php echo esc_html__( 'Front-end Development', 'caioportfolio' ); ?></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></div>
 <!-- /wp:group --></div>
@@ -136,20 +136,20 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
-<h3 class="wp-block-heading has-secondary-color has-text-color has-link-color"><?php echo esc_html__( 'Motion Web Design', 'portfoliogrove' ); ?></h3>
+<h3 class="wp-block-heading has-secondary-color has-text-color has-link-color"><?php echo esc_html__( 'Motion Web Design', 'caioportfolio' ); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
-<p class="has-secondary-color has-text-color has-link-color"><?php echo esc_html__( 'Lorem aliquet sit tristique viverra quam si duis Vel montes justo', 'portfoliogrove' ); ?></p>
+<p class="has-secondary-color has-text-color has-link-color"><?php echo esc_html__( 'Lorem aliquet sit tristique viverra quam si duis Vel montes justo', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
 <ul class="has-secondary-color has-text-color has-link-color"><!-- wp:list-item -->
-<li><?php echo esc_html__( 'Web and Mobile App Design', 'portfoliogrove' ); ?></li>
+<li><?php echo esc_html__( 'Web and Mobile App Design', 'caioportfolio' ); ?></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><?php echo esc_html__( 'Front-end Development', 'portfoliogrove' ); ?></li>
+<li><?php echo esc_html__( 'Front-end Development', 'caioportfolio' ); ?></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></div>
 <!-- /wp:group --></div>
@@ -162,20 +162,20 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
-<h3 class="wp-block-heading has-secondary-color has-text-color has-link-color"><?php echo esc_html__( 'Web Development', 'portfoliogrove' ); ?></h3>
+<h3 class="wp-block-heading has-secondary-color has-text-color has-link-color"><?php echo esc_html__( 'Web Development', 'caioportfolio' ); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
-<p class="has-secondary-color has-text-color has-link-color"><?php echo esc_html__( 'Lorem aliquet sit tristique viverra quam si duis Vel montes justo', 'portfoliogrove' ); ?></p>
+<p class="has-secondary-color has-text-color has-link-color"><?php echo esc_html__( 'Lorem aliquet sit tristique viverra quam si duis Vel montes justo', 'caioportfolio' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
 <ul class="has-secondary-color has-text-color has-link-color"><!-- wp:list-item -->
-<li><?php echo esc_html__( 'Web and Mobile App Design', 'portfoliogrove' ); ?></li>
+<li><?php echo esc_html__( 'Web and Mobile App Design', 'caioportfolio' ); ?></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><?php echo esc_html__( 'Front-end Development', 'portfoliogrove' ); ?></li>
+<li><?php echo esc_html__( 'Front-end Development', 'caioportfolio' ); ?></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></div>
 <!-- /wp:group --></div>

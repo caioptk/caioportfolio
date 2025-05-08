@@ -1,7 +1,7 @@
 <?php
  /**
   * Title: Checkout
-  * Slug: portfoliogrove/checkout
+  * Slug: caioportfolio/checkout
   * Inserter: no
   */
 ?>
