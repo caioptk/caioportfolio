@@ -7,3 +7,4 @@ wp-admin/error_log
 
 # Ignore WordPress uploads
 wp-content/uploads/
+wp-config.php
