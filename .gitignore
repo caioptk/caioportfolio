@@ -1,2 +1,9 @@
+# Ignore WordPress config file
 wp-config.php
-wp-config.php
+
+# Ignore PHP error logs
+error_log
+wp-admin/error_log
+
+# Ignore WordPress uploads
+wp-content/uploads/
