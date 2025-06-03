@@ -4,6 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: caioportfolio 1.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/caioportfolio\n"
+"Project-Id-Version: caioportfolio 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/caioportfolio\n"
 "POT-Creation-Date: 2024-06-22 15:46:34+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,6 +15,7 @@ msgstr ""
 "Language-Team: LANGUAGE <LL@li.org>\n"
 
 #: functions.php:32
+msgid "caioportfolio"
 msgid "caioportfolio"
 msgstr ""
 
@@ -57,13 +60,16 @@ msgid "Related Products"
 msgstr ""
 #. Theme Name of the plugin/theme
 msgid "caioportfolio"
+msgid "caioportfolio"
 msgstr ""
 
 #. Theme URI of the plugin/theme
 msgid "https://themegrove.com/products/caioportfolio/"
+msgid "https://themegrove.com/products/caioportfolio/"
 msgstr ""
 
 #. Description of the plugin/theme
+msgid "Demo: https://demos.themegrove.com/caioportfolio/"
 msgid "Demo: https://demos.themegrove.com/caioportfolio/"
 msgstr ""
 
