@@ -41,8 +41,4 @@ function caioportfolio_register_pattern_category() {
 	}
 }
 
-<<<<<<< HEAD
 add_action( 'init', 'caioportfolio_register_pattern_category');
-=======
-add_action( 'init', 'caioportfolio_register_pattern_category');
->>>>>>> 0448596 (Fix theme path and apply working style updates)
