@@ -1,10 +1,29 @@
-# Ignore WordPress config file
+# === WordPress Core ===
+wp-admin/
+wp-includes/
+
+# === WordPress Config ===
 wp-config.php
+.htaccess
+authorized_keys
+local-xdebuginfo.php
 
-# Ignore PHP error logs
-error_log
-wp-admin/error_log
-
-# Ignore WordPress uploads
+# === WordPress Uploads ===
 wp-content/uploads/
-wp-config.php
+
+# === Logs ===
+error_log
+*.log
+
+# === System & IDE Junk ===
+.DS_Store
+Thumbs.db
+*.sql
+*.sqlite
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# === Temporary / Mac Files ===
+._*
