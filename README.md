@@ -1,5 +1,10 @@
 # caioportfolio
 
+[![Built with WordPress](https://img.shields.io/badge/Built%20with-WordPress-blue?logo=wordpress)](https://wordpress.org)
+[![Deployed with DeployHQ](https://img.shields.io/badge/Deployed%20with-DeployHQ-28a745?logo=data:image/svg+xml;base64,)](https://www.deployhq.com/)
+[![Visit Portfolio](https://img.shields.io/badge/Visit-petelinkar.com-orange)](https://petelinkar.com)
+
+
 **Caio Petelinkar's portfolio website**  
 Showcasing product case studies, features, and side projects — while also serving as a sandbox for ongoing technical development.
 
