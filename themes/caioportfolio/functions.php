@@ -42,3 +42,21 @@ function caioportfolio_register_pattern_category() {
 }
 
 add_action( 'init', 'caioportfolio_register_pattern_category');
+
+function add_google_analytics_tag() {
+  if (strpos($_SERVER['HTTP_HOST'], 'localhost') === false && strpos($_SERVER['HTTP_HOST'], '.local') === false) {
+    ?>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-E6Z24TYVFF"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-E6Z24TYVFF');
+    </script>
+    <?php
+  }
+}
+add_action('wp_head', 'add_google_analytics_tag');
+
