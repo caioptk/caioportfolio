@@ -10,66 +10,12 @@
 
 <div class="wp-block-group">
     <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
-    <div class="wp-block-group"
-        style="padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40)">
-        <!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"center"}} -->
-        <div class="wp-block-group">
-            <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"large"} -->
-            <p class="has-secondary-color has-text-color has-link-color has-large-font-size">
-                <?php echo esc_html__( 'Work', 'caioportfolio' ); ?></p>
-            <!-- /wp:paragraph -->
 
-            <!-- wp:image {"id":4888,"width":"44px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
-            <figure class="wp-block-image size-full is-resized"><img
-                    src="<?php echo esc_url( get_stylesheet_directory_uri() );?>/assets/images/icon-6.png" alt=""
-                    class="wp-image-4888" style="width:44px;height:auto" /></figure>
-            <!-- /wp:image -->
-
-            <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"large"} -->
-            <p class="has-secondary-color has-text-color has-link-color has-large-font-size">
-                <?php echo esc_html__( 'Get in Touch', 'caioportfolio' ); ?></p>
-            <!-- /wp:paragraph -->
-
-            <!-- wp:image {"id":4888,"width":"40px","sizeSlug":"full","linkDestination":"none"} -->
-            <figure class="wp-block-image size-full is-resized"><img
-                    src="<?php echo esc_url( get_stylesheet_directory_uri() );?>/assets/images/icon-6.png" alt=""
-                    class="wp-image-4888" style="width:40px" /></figure>
-            <!-- /wp:image -->
-
-            <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"large"} -->
-            <p class="has-secondary-color has-text-color has-link-color has-large-font-size">
-                <?php echo esc_html__( 'Available for Work', 'caioportfolio' ); ?></p>
-            <!-- /wp:paragraph -->
-
-            <!-- wp:image {"id":4888,"width":"44px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
-            <figure class="wp-block-image size-full is-resized"><img
-                    src="<?php echo esc_url( get_stylesheet_directory_uri() );?>/assets/images/icon-6.png" alt=""
-                    class="wp-image-4888" style="width:44px;height:auto" /></figure>
-            <!-- /wp:image -->
-
-            <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"large"} -->
-            <p class="has-secondary-color has-text-color has-link-color has-large-font-size">
-                <?php echo esc_html__( 'Get in Touch', 'caioportfolio' ); ?></p>
-            <!-- /wp:paragraph -->
-
-            <!-- wp:image {"id":4888,"width":"40px","sizeSlug":"full","linkDestination":"none"} -->
-            <figure class="wp-block-image size-full is-resized"><img
-                    src="<?php echo esc_url( get_stylesheet_directory_uri() );?>/assets/images/icon-6.png" alt=""
-                    class="wp-image-4888" style="width:40px" /></figure>
-            <!-- /wp:image -->
-
-            <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"large"} -->
-            <p class="has-secondary-color has-text-color has-link-color has-large-font-size">
-                <?php echo esc_html__( 'Work', 'caioportfolio' ); ?></p>
-            <!-- /wp:paragraph -->
-        </div>
-        <!-- /wp:group -->
-    </div>
     <!-- /wp:group -->
 
     <!-- wp:group {"style":{"spacing":{"blockGap":"0","margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|20","right":"var:preset|spacing|20"}},"border":{"top":{"color":"#d092ba","width":"1px"}}},"className":"pg-footer-center-row","layout":{"type":"constrained"}} -->
     <div class="wp-block-group pg-footer-center-row"
-        style="border-top-color:#d092ba;border-top-width:1px;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--20)">
+        style="border-top-color:#d092ba;border-top-width:1px;margin-top:0;margin-bottom:0;padding-top:1.5rem;padding-right:var(--wp--preset--spacing--20);padding-bottom:1.5rem;padding-left:var(--wp--preset--spacing--20)">
         <!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"}}}} -->
         <div class="wp-block-columns">
             <!-- wp:column {"width":"","layout":{"type":"default"}} -->
@@ -77,66 +23,39 @@
                 <!-- wp:group {"layout":{"type":"constrained","justifyContent":"center"}} -->
                 <div class="wp-block-group">
                     <!-- wp:paragraph {"fontSize":"mdm-large","fontFamily":"header-font"} -->
-                    <p class="has-header-font-font-family has-mdm-large-font-size"><a
-                            href="#"><?php echo esc_html__( 'Home', 'caioportfolio' ); ?></a></p>
-                    <!-- /wp:paragraph -->
-
-                    <!-- wp:paragraph {"fontSize":"mdm-large","fontFamily":"header-font"} -->
-                    <p class="has-header-font-font-family has-mdm-large-font-size"><a
-                            href="#"><?php echo esc_html__( 'Work', 'caioportfolio' ); ?></a></p>
-                    <!-- /wp:paragraph -->
-
-                    <!-- wp:paragraph {"fontSize":"mdm-large","fontFamily":"header-font"} -->
-                    <p class="has-header-font-font-family has-mdm-large-font-size"><a
-                            href="#"><?php echo esc_html__( 'Me', 'caioportfolio' ); ?></a></p>
-                    <!-- /wp:paragraph -->
+                    <div class="footer-logo" style="text-align: center; margin-bottom: 1rem;">
+                        <a href="<?php echo esc_url(home_url('/')); ?>">
+                            <img src="<?php echo esc_url(get_stylesheet_directory_uri()); ?>/assets/images/android-chrome-192x192.png"
+                                alt="Caio Portfolio" width="120" height="auto" />
+                        </a>
+                    </div>
                 </div>
                 <!-- /wp:group -->
             </div>
             <!-- /wp:column -->
-
             <!-- wp:column {"width":""} -->
             <div class="wp-block-column">
                 <!-- wp:group {"layout":{"type":"constrained"}} -->
                 <div class="wp-block-group">
-                    <!-- wp:paragraph {"fontSize":"mdm-large","fontFamily":"header-font"} -->
-                    <p class="has-header-font-font-family has-mdm-large-font-size"><a
-                            href="#"><?php echo esc_html__( 'Linkedin', 'caioportfolio' ); ?></a></p>
-                    <!-- /wp:paragraph -->
-
-                    <!-- wp:paragraph {"fontSize":"mdm-large","fontFamily":"header-font"} -->
-                    <p class="has-header-font-font-family has-mdm-large-font-size"><a
-                            href="#"><?php echo esc_html__( 'Instagram', 'caioportfolio' ); ?></a></p>
-                    <!-- /wp:paragraph -->
-
-                    <!-- wp:paragraph {"fontSize":"mdm-large","fontFamily":"header-font"} -->
-                    <p class="has-header-font-font-family has-mdm-large-font-size"><a
-                            href="#"><?php echo esc_html__( 'Twitter', 'caioportfolio' ); ?></a></p>
-                    <!-- /wp:paragraph -->
-                </div>
-                <!-- /wp:group -->
-            </div>
-            <!-- /wp:column -->
-
-            <!-- wp:column {"width":""} -->
-            <div class="wp-block-column">
-                <!-- wp:group {"layout":{"type":"constrained"}} -->
-                <div class="wp-block-group">
-                    <!-- wp:paragraph {"fontSize":"mdm-large","fontFamily":"header-font"} -->
-                    <p class="has-header-font-font-family has-mdm-large-font-size"><a
-                            href="#"><?php echo esc_html__( 'Mobile App', 'caioportfolio' ); ?></a></p>
-                    <!-- /wp:paragraph -->
-
-                    <!-- wp:paragraph {"fontSize":"mdm-large","fontFamily":"header-font"} -->
-                    <p class="has-header-font-font-family has-mdm-large-font-size"><a
-                            href="#"><?php echo esc_html__( 'UI', 'caioportfolio' ); ?> &amp;
-                            <?php echo esc_html__( 'UX Design', 'caioportfolio' ); ?></a></p>
-                    <!-- /wp:paragraph -->
-
-                    <!-- wp:paragraph {"fontSize":"mdm-large","fontFamily":"header-font"} -->
-                    <p class="has-header-font-font-family has-mdm-large-font-size"><a
-                            href="#"><?php echo esc_html__( 'Web Design', 'caioportfolio' ); ?></a></p>
-                    <!-- /wp:paragraph -->
+                    <div class="wp-block-group" style="text-align: center; padding: 2rem 0;">
+                        <span class="inline-flex justify-center space-x-5">
+                            <a href="https://www.linkedin.com/in/petelinkar" target="_blank" class="social-icon">
+                                <span class="sr-only">LinkedIn</span>
+                                <img src="<?php echo esc_url(get_stylesheet_directory_uri()); ?>/assets/images/linkedin.svg"
+                                    alt="LinkedIn" width="24" height="24" />
+                            </a>
+                            <a href="https://www.youtube.com/@CaioPetelinkar" target="_blank" class="social-icon">
+                                <span class="sr-only">YouTube</span>
+                                <img src="<?php echo esc_url(get_stylesheet_directory_uri()); ?>/assets/images/youtube.svg"
+                                    alt="YouTube" width="24" height="24" />
+                            </a>
+                            <a href="https://github.com/caioptk" target="_blank" class="social-icon">
+                                <span class="sr-only">GitHub</span>
+                                <img src="<?php echo esc_url(get_stylesheet_directory_uri()); ?>/assets/images/github.svg"
+                                    alt="GitHub" width="24" height="24" />
+                            </a>
+                        </span>
+                    </div>
                 </div>
                 <!-- /wp:group -->
             </div>
@@ -149,20 +68,24 @@
                     style="border-radius:10px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">
                     <!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
                     <div class="wp-block-group">
-                        <!-- wp:paragraph {"fontSize":"mdm-large","fontFamily":"header-font"} -->
+                        <!-- Heading -->
                         <p class="has-header-font-font-family has-mdm-large-font-size">
-                            <?php echo esc_html__( 'Get in Touch', 'caioportfolio' ); ?></p>
-                        <!-- /wp:paragraph -->
+                            <?php echo esc_html__("Let's connect:", 'caioportfolio'); ?>
+                        </p>
 
-                        <!-- wp:paragraph -->
-                        <p><?php echo esc_html__( 'Suspendisse ornare ante dictum nostra', 'caioportfolio' ); ?></p>
-                        <!-- /wp:paragraph -->
+                        <!-- Email -->
+                        <p>
+                            <a href="mailto:caioptk@gmail.com">caioptk@gmail.com</a>
+                        </p>
+
+                        <!-- CV Download -->
+                        <p>
+                            <a href="/uploads/2025/06/Caio_Petelinkar_CV_2025_JUNE.pdf" target="_blank" rel="noopener">
+                                📄 Download my CV
+                            </a>
+                        </p>
                     </div>
                     <!-- /wp:group -->
-
-                    <!-- wp:paragraph -->
-                    <p><?php echo esc_html__( 'Add yours from shortcode', 'caioportfolio' ); ?></p>
-                    <!-- /wp:paragraph -->
                 </div>
                 <!-- /wp:group -->
             </div>
@@ -173,17 +96,7 @@
     <!-- /wp:group -->
 
     <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"},"margin":{"top":"0","bottom":"0"}},"border":{"top":{"color":"#d092ba","width":"1px"}}},"layout":{"type":"constrained"}} -->
-    <div class="wp-block-group"
-        style="border-top-color:#d092ba;border-top-width:1px;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)">
-        <!-- wp:group {"style":{"border":{"top":{"width":"0px","style":"none"},"right":[],"bottom":[],"left":[]},"spacing":{"padding":{"top":"0"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
-        <div class="wp-block-group" style="border-top-style:none;border-top-width:0px;padding-top:0">
-            <!-- wp:paragraph {"fontSize":"sml-medium"} -->
-            <p class="has-sml-medium-font-size"><?php echo esc_html__( 'Developed By', 'caioportfolio' ); ?> <a
-                    href="#"><?php echo esc_html__( 'Themegrove.com', 'caioportfolio' ); ?></a></p>
-            <!-- /wp:paragraph -->
-        </div>
-        <!-- /wp:group -->
-    </div>
+
     <!-- /wp:group -->
 
     <!-- wp:paragraph {"className":"caioportfolio-scrool-top"} -->

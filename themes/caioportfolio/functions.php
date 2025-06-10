@@ -60,3 +60,14 @@ function add_google_analytics_tag() {
 }
 add_action('wp_head', 'add_google_analytics_tag');
 
+function caioportfolio_add_favicons() {
+    $theme_dir = esc_url( get_stylesheet_directory_uri() );
+    echo '<link rel="icon" href="' . $theme_dir . '/assets/images/favicon.ico" type="image/x-icon">' . "\n";
+    echo '<link rel="apple-touch-icon" sizes="180x180" href="' . $theme_dir . '/assets/images/apple-touch-icon.png">' . "\n";
+    echo '<link rel="icon" type="image/png" sizes="32x32" href="' . $theme_dir . '/assets/images/favicon-32x32.png">' . "\n";
+    echo '<link rel="icon" type="image/png" sizes="16x16" href="' . $theme_dir . '/assets/images/favicon-16x16.png">' . "\n";
+    echo '<link rel="icon" type="image/png" sizes="192x192" href="' . $theme_dir . '/assets/images/android-chrome-192x192.png">' . "\n";
+    echo '<link rel="icon" type="image/png" sizes="512x512" href="' . $theme_dir . '/assets/images/android-chrome-512x512.png">' . "\n";
+    echo '<link rel="manifest" href="' . $theme_dir . '/assets/images/site.webmanifest">' . "\n";
+}
+add_action( 'wp_head', 'caioportfolio_add_favicons' );
