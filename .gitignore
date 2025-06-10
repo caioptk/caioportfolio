@@ -1,18 +1,40 @@
-# Ignore media uploads (handled on the server)
+# Ignore media uploads (usually handled directly on the server)
 uploads/
 
-# Ignore plugin or cache-generated files
+# Ignore cache and backup plugin directories
 cache/
+backuply/
+
+# Ignore logs
 *.log
 debug.log
 
 # Ignore local dev settings or sensitive config
 .env
+.env.local
+.env.*.local
 
-# Ignore package managers and vendor libraries
+# Ignore vendor and node dependencies
 node_modules/
 vendor/
 
-# Ignore compressed backups or exports
+# Ignore archives or exports
 *.zip
 *.tar.gz
+*.tar
+*.bak
+*.tmp
+
+# Ignore IDE/editor configs
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Ignore all plugins and themes except your own
+plugins/*
+!plugins/your-plugin-name/
+
+mu-plugins/*
+!mu-plugins/your-mu-plugin-name/
+
